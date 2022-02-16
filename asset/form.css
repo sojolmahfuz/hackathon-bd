@@ -1,0 +1,10 @@
+*{margin: 0;padding: 0;}
+    .head,.foot{padding: 4px;font-weight: bolder}
+    .head{background-color: #999;color: #fff;border-radius: 8px 8px 0 0;}
+    .foot{text-align:center;background-color: #eee;border-radius:0 0 8px 8px;}
+    .formbg{padding: 8px;background-color: #dde1e7;font-size: small}
+    .formbg input{border-radius: 8px;padding: 6px;width: 97%;border: none;outline:none;background: #dde1e7;box-shadow: inset 2px 2px 5px #babecc, inset -1px -1px 2px #ffffff73;}
+    #formbase{margin: auto;margin-top:15%;border-radius: 8px;border: 1px solid #ddd;width: 30%;/*box-shadow: -1px -1px 4px #ddd, 2px 2px 5px #ddd*/}
+    select{border: none;background: #dde1e7}
+    input[type="submit"],input[type="reset"]{font-weight:bolder;padding: 4px;background-color: #999;color: #fff;margin: 2px}
+    
